@@ -1,0 +1,1 @@
+To work with the currently connected db, you can start the project directly via IIS Express. To connect to a different db, you need to change the Connection String in the DbContext file and perform the migration process.
